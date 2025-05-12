@@ -6,7 +6,7 @@ Sou um profissional apaixonado por tecnologia, inovação e experiência do usu�
 
 Ao longo da minha trajetória, tive a oportunidade de trabalhar em empresas de tecnologia, telecomunicações e e-commerce, desenvolvendo habilidades que vão desde programação e análise de sistemas até gestão de atendimento e suporte técnico. Minha experiência inclui liderança de equipes, treinamento de clientes, melhoria contínua de processos e resolução de problemas de forma estratégica e eficiente.
 
-# # Minhas principais habilidades incluem:
+## Minhas principais habilidades incluem:
 Desenvolvimento de software com JavaScript, React Native, TypeScript e C#
 Análise e visualização de dados com Pandas, NumPy, Excel e Scikit-learn
 Banco de dados MySQL, SQL Server, MongoDB, Google Cloud SQL, Azure SQL
