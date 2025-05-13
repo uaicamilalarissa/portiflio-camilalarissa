@@ -2,7 +2,6 @@
 
 ## Meu Portfólio de Projetos
 
-# Meu Portfólio de Projetos
 
 Olá! Sou uma profissional em transição para a área de desenvolvimento, trazendo comigo uma base sólida em análise de sistemas, experiência do usuário e um olhar atento para a tecnologia. Este portfólio é uma forma de compartilhar meus aprendizados e projetos práticos nessa nova jornada.
 
