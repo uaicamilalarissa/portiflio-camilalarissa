@@ -4,7 +4,13 @@
 
 #### 1.1. Usuários
 
-[Descrição dos diferentes tipos de usuários do sistema]
+| Tipo de Usuário   | Descrição | Responsabilidades |
+|------------------|-----------|------------------|
+| **Administrador do Sistema** | O proprietário do portfólio.| Manter o portfólio atualizado com novos projetos, informações sobre suas habilidades e formas de contato |
+
+| **Recrutadores e Gerentes de Contratação** | Pessoas que estão buscando identificar e contratar talentos na área de tecnologia. | Navegar pelo seu portfólio para entender suas habilidades, experiência (mesmo que inicial em desenvolvimento), os projetos que você desenvolveu e como entrar em contato. Eles querem avaliar se você tem o perfil que eles procuram. |
+| **Outros Desenvolvedores** |Colegas de profissão que podem estar interessados em ver seus projetos, trocar ideias ou até colaborar no futuro. |Explorar seu código, entender suas abordagens para resolver problemas e talvez aprender algo com seus projetos.|
+
 
 #### 1.2. Arquitetura
 
