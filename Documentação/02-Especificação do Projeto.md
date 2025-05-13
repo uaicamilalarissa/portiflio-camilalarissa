@@ -80,7 +80,13 @@ Este projeto utilizará as seguintes tecnologias principais:
 
 #### 3.2. Restrições
 
-[Limitações ou restrições do projeto]
+|ID| Restrição                                             |
+|--|-------------------------------------------------------|
+|01|  O portfólio focará na apresentação de um número limitado de projetos (por exemplo, seus primeiros projetos mais relevantes). Funcionalidades mais complexas (como um blog integrado, sistema de comentários, etc.) podem ficar para futuras iterações. |
+|02| A interatividade pode ser mantida em um nível básico, focando na navegação e exibição de informações, sem funcionalidades dinâmicas complexas (a menos que seus projetos as demandem).|
+|03| O design será moderno e agradável, mas pode se basear em templates ou frameworks de UI para acelerar o desenvolvimento, em vez de um design totalmente personalizado desde o início.|
+|04| O desenvolvimento se concentrará nas tecnologias que você está aprendendo ou já domina (React, TypeScript, HTML, CSS, etc.), evitando a introdução de tecnologias completamente novas apenas para o portfólio neste momento.|
+|05| A hospedagem inicial pode ser em plataformas gratuitas como GitHub Pages, Vercel ou Netlify, o que pode trazer algumas limitações|
 
 ### 3. Diagrama de Caso de Uso
 
