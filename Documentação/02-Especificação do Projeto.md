@@ -90,7 +90,7 @@ Este projeto utilizará as seguintes tecnologias principais:
 
 ### 3. Diagrama de Caso de Uso
 
-[Seção para incluir o diagrama de caso de uso (pode ser uma imagem)]
+
 
 ### 4. Projeto da Base de Dados
 
