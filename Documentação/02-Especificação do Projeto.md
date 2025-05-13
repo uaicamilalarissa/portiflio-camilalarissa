@@ -29,9 +29,8 @@ Este projeto do Sistema de Gestão de Eventos adota a seguinte arquitetura:
     * **Tecnologia:** [MySQL](https://www.mysql.com/)
     * **Descrição:** Os dados da aplicação, como informações de eventos, usuários e inscrições, serão persistidos em um banco de dados relacional MySQL.
 
-#### 1.3. Tecnologias
 
-### 2.3. Tecnologias
+### 1.3. Tecnologias
 
 Este projeto utilizará as seguintes tecnologias principais:
 
