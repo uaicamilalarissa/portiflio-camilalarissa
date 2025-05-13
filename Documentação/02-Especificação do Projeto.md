@@ -13,7 +13,21 @@
 
 #### 1.2. Arquitetura
 
-[Visão geral da arquitetura do sistema (ex: front-end, back-end, banco de dados)]
+Este projeto do Sistema de Gestão de Eventos adota a seguinte arquitetura:
+
+* **Front-end:**
+    * **Tecnologia:** [React](https://react.dev/)
+    * **Linguagem:** [TypeScript](https://www.typescriptlang.org/)
+    * **Descrição:** A interface do usuário web será desenvolvida utilizando a biblioteca React, que permite a criação de interfaces dinâmicas e reativas. O uso de TypeScript adiciona tipagem estática ao JavaScript, melhorando a manutenibilidade e a detecção de erros durante o desenvolvimento.
+
+* **Back-end:**
+    * **Tecnologia:** [Node.js](https://nodejs.org/en/) com [Express.js](https://expressjs.com/)
+    * **Linguagem:** [TypeScript](https://www.typescriptlang.org/)
+    * **Descrição:** A lógica do servidor e a API (Application Programming Interface) serão construídas utilizando Node.js, um ambiente de execução JavaScript server-side, e o framework Express.js, que facilita a criação de aplicações web robustas e APIs RESTful. O uso de TypeScript no back-end garante consistência de tipos em toda a aplicação.
+
+* **Banco de Dados:**
+    * **Tecnologia:** [MySQL](https://www.mysql.com/)
+    * **Descrição:** Os dados da aplicação, como informações de eventos, usuários e inscrições, serão persistidos em um banco de dados relacional MySQL.
 
 #### 1.3. Tecnologias
 
