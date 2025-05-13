@@ -1,17 +1,23 @@
 # Portiflio Camila Larissa 
 
 ## Meu Portfólio de Projetos
-Sobre mim
-Sou um profissional apaixonado por tecnologia, inovação e experiência do usuário, com formação em Análise e Desenvolvimento de Sistemas e especialização em desenvolvimento mobile (React Native, Android, iOS), UX Design e Power Apps. Tenho experiência sólida em desenvolvimento de software, análise de dados, e-commerce, suporte técnico e atendimento ao cliente, além de atuar na gestão de equipes e otimização de processos.
 
-Ao longo da minha trajetória, tive a oportunidade de trabalhar em empresas de tecnologia, telecomunicações e e-commerce, desenvolvendo habilidades que vão desde programação e análise de sistemas até gestão de atendimento e suporte técnico. Minha experiência inclui liderança de equipes, treinamento de clientes, melhoria contínua de processos e resolução de problemas de forma estratégica e eficiente.
+# Meu Portfólio de Projetos
 
-## Minhas principais habilidades incluem:
-Desenvolvimento de software com JavaScript, React Native, TypeScript e C#
-Análise e visualização de dados com Pandas, NumPy, Excel e Scikit-learn
-Banco de dados MySQL, SQL Server, MongoDB, Google Cloud SQL, Azure SQL
-Gestão de projetos e versionamento com Git, GitHub, Visual Studio, Power Apps
-UX/UI Design e Prototipagem com Figma e Canva
-Gestão de equipes e suporte técnico em sons sonoros
+Olá! Sou uma profissional em transição para a área de desenvolvimento, trazendo comigo uma base sólida em análise de sistemas, experiência do usuário e um olhar atento para a tecnologia. Este portfólio é uma forma de compartilhar meus aprendizados e projetos práticos nessa nova jornada.
 
-Estou em busca de novas oportunidades para aplicar minhas habilidades e contribuir com inovação, eficiência e resultados. Sou uma profissional comprometida, proativa e aberta a desafios, sempre buscando aprender e evoluir.
+Com formação em Análise e Desenvolvimento de Sistemas e um interesse crescente em desenvolvimento mobile (React Native, Android, iOS), UX Design e Power Apps, estou animado para aplicar minhas habilidades e aprender continuamente. Minha experiência anterior em áreas como análise de dados, e-commerce, suporte técnico e atendimento ao cliente me proporciona uma perspectiva única e valiosa para a criação de soluções tecnológicas focadas no usuário.
+
+Neste espaço, você encontrará projetos que refletem minha dedicação em aprender e construir coisas novas. Fique à vontade para explorar!
+
+**Minhas Habilidades em Desenvolvimento (em aprendizado e aplicação):**
+
+* JavaScript, React Native, TypeScript, C# (em desenvolvimento)
+* Análise e visualização de dados (com Pandas, NumPy, Excel - conhecimentos da minha trajetória anterior)
+* Banco de dados (MySQL, SQL Server, MongoDB - conhecimentos da minha trajetória anterior e em aprendizado)
+* Git, GitHub, Visual Studio, Power Apps
+* UX/UI Design e Prototipagem (com Figma e Canva - conhecimentos da minha trajetória anterior)
+
+Estou buscando oportunidades para aplicar minhas habilidades em desenvolvimento e contribuir com projetos inovadores. Sou um profissional comprometido, proativo e com muita vontade de aprender e crescer na área de tecnologia.
+
+Sinta-se à vontade para entrar em contato! Meus links estão abaixo.
