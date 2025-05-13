@@ -56,9 +56,29 @@ Este projeto utilizará as seguintes tecnologias principais:
 
 #### 2.1. Requisitos Funcionais
 
-[Lista das funcionalidades que o sistema deve ter]
+| ID | Descrição do Requisito | Prioridade |
+|----|------------------------|------------|
+|RF-001| O portfólio deve exibir suas informações relevantes, como sua área de atuação (desenvolvimento, UX, etc.), um breve resumo sobre você e seus objetivos profissionais.| ALTA | 
+|RF-002| O portfólio deve listar suas habilidades técnicas (linguagens de programação, frameworks, ferramentas) de forma clara e organizada.| ALTA |
+|RF-003| O portfólio deve apresentar seus projetos de forma individual, incluindo uma descrição, as tecnologias utilizadas e, idealmente, links para o código no GitHub e/ou uma demonstração online (se aplicável).| ALTA |
+|RF-004| O portfólio deve fornecer formas claras para que os visitantes entrem em contato com você (e-mail, LinkedIn, etc.). | ALTA |
+|RF-005| O portfólio deve ter um design visualmente agradável e se adaptar bem a diferentes tamanhos de tela (desktop, tablet, mobile) | ALTA |
+|RF-006| O portfólio deve permitir que os visitantes naveguem facilmente entre as diferentes seções (sobre mim, habilidades, projetos, contato). | ALTA | 
 
-#### 2.2. Restrições
+### 2.2 Requisitos não Funcionais
+
+| ID | Descrição do Requisito | Prioridade |
+|----|------------------------|------------|
+|RNF-001| A aplicação deve ser responsiva. | ALTA | 
+|RNF-002| A interface deve ser intuitiva e de fácil usabilidade. | ALTA |
+|RNF-003| A aplicação deve estar de acordo com a Lei Geral de Proteção de Dados (LGPD). |  ALTA |
+|RNF-004| O sistema deve preservar a integridade e privacidade dos dados cadastrados (Criptografia e Segurança). |  ALTA |
+|RNF-005| A aplicação deve ter índice de disponibilidade superior a 99%. | MÉDIA |
+|RNF-006| A aplicação deve possuir backup de segurança automático em nuvem. | MÉDIA |
+|RNF-007| Deve ser possível adicionar novos módulos e funcionalidades conforme o crescimento da empresa. | BAIXA |
+|RNF-008| O sistema deve permitir integração com serviços de pagamento, e-mail e ferramentas de CRM. | MÉDIA |
+
+#### 3.2. Restrições
 
 [Limitações ou restrições do projeto]
 
