@@ -69,14 +69,14 @@ Este projeto utilizará as seguintes tecnologias principais:
 
 | ID | Descrição do Requisito | Prioridade |
 |----|------------------------|------------|
-|RNF-001| A aplicação deve ser responsiva. | ALTA | 
-|RNF-002| A interface deve ser intuitiva e de fácil usabilidade. | ALTA |
-|RNF-003| A aplicação deve estar de acordo com a Lei Geral de Proteção de Dados (LGPD). |  ALTA |
+|RNF-001|O portfólio deve ser fácil de navegar e entender para os visitantes (recrutadores, outros desenvolvedores, etc.). A informação deve ser encontrada de forma intuitiva. | ALTA | 
+|RNF-002|O layout do portfólio deve se adaptar bem a diferentes dispositivos e tamanhos de tela (desktops, tablets, smartphones), garantindo uma boa experiência de visualização em qualquer dispositivo. | ALTA |
+|RNF-003| O portfólio deve carregar rapidamente para não afastar os visitantes. Otimização de imagens e código é importante. |  ALTA |
 |RNF-004| O sistema deve preservar a integridade e privacidade dos dados cadastrados (Criptografia e Segurança). |  ALTA |
-|RNF-005| A aplicação deve ter índice de disponibilidade superior a 99%. | MÉDIA |
+|RNF-005|O código do portfólio deve ser bem estruturado e fácil de atualizar, permitindo que você adicione novos projetos ou informações no futuro sem grandes dificuldades. | MÉDIA |
 |RNF-006| A aplicação deve possuir backup de segurança automático em nuvem. | MÉDIA |
-|RNF-007| Deve ser possível adicionar novos módulos e funcionalidades conforme o crescimento da empresa. | BAIXA |
-|RNF-008| O sistema deve permitir integração com serviços de pagamento, e-mail e ferramentas de CRM. | MÉDIA |
+|RNF-007| Considerar a acessibilidade (WCAG) para garantir que pessoas com deficiência também possam navegar pelo seu portfólio. Isso pode incluir texto alternativo para imagens, uso correto de semântica HTML, etc.| ALTA |
+
 
 #### 3.2. Restrições
 
