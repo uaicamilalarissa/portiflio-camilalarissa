@@ -90,6 +90,14 @@ Este projeto utilizará as seguintes tecnologias principais:
 
 ### 3. Diagrama de Caso de Uso
 
+![image](https://github.com/user-attachments/assets/86adf374-cf46-4671-a381-1dc92cee71ac)
+
+- Visualizar Página Inicial: O visitante acessa a página principal do seu portfólio.
+- Navegar para a Seção "Sobre Mim": O visitante quer saber mais sobre sua trajetória e habilidades.
+- Navegar para a Seção "Habilidades": O visitante quer ver suas competências técnicas.
+- Visualizar Projetos: O visitante quer ver os projetos que você desenvolveu.
+- Acessar Detalhes do Projeto: O visitante quer mais informações sobre um projeto específico (tecnologias, descrição, links).
+- Visualizar Informações de Contato: O visitante quer saber como entrar em contato com você.
 
 
 ### 4. Projeto da Base de Dados
