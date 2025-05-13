@@ -108,6 +108,21 @@ Este projeto utilizará as seguintes tecnologias principais:
 
 #### 4.2. Diagrama ER
 
-[Seção para incluir o Diagrama Entidade-Relacionamento (pode ser uma imagem)]
+|Entidades|  Descrição                                           |
+|--|-------------------------------------------------------|
+|Sobre Mim| Resumo, Objetivos |
+|Habilidade| Nome|
+|Projeto| Título, Descrição, Tecnologias, Link GitHub, Link Demo, Imagens/Vídeos|
+|Contato| E-mail, LinkedIn, Outros Links|
+
+|Relacionamento|  Entidades Atributos Principais                                            |
+|--|-------------------------------------------------------|
+|Sobre Mim -> Habilidades| A seção "Sobre Mim" lista as diversas habilidades do profissional. |
+|Sobre Mim -> Projetos| A seção "Sobre Mim" apresenta os diferentes projetos desenvolvidos.|
+|Sobre Mim -> Contato| A seção "Sobre Mim" fornece as informações para entrar em contato.|
+|Projeto -> Habilidades| Cada projeto especifica as habilidades/tecnologias que foram utilizadas|
+
+
+
 
 
