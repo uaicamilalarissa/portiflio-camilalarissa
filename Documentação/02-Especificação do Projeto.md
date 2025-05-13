@@ -31,7 +31,27 @@ Este projeto do Sistema de Gestão de Eventos adota a seguinte arquitetura:
 
 #### 1.3. Tecnologias
 
-[Lista das tecnologias que serão utilizadas no projeto]
+### 2.3. Tecnologias
+
+Este projeto utilizará as seguintes tecnologias principais:
+
+* **Linguagens:**
+    * TypeScript
+    * JavaScript
+
+* **Front-end:**
+    * React
+
+* **Back-end:**
+    * Node.js
+    * Express.js
+
+* **Banco de Dados:**
+    * MySQL
+
+* **Outras Ferramentas:**
+    * Git (para controle de versão)
+    * npm ou yarn (gerenciadores de pacotes)
 
 ### 2. Requisitos
 
